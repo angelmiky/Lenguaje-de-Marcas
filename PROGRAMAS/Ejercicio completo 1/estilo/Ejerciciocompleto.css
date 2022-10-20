@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+#primer {
+border-style:double;
+text-align: center;
+width: 90%;
+margin: 0 auto;
+}
+.clas1 {
+    color:red
+}
+.azul {
+    color: blue;
+}
+.amarillo {
+    color: yellow;
+}
+.morado {
+    color:blueviolet ;
+}
+.verde {
+    color:green;
+}

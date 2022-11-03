@@ -1,0 +1,28 @@
+table {
+    border: 1px solid; color: palevioletred;
+    border-style: double;
+    width: 70%;
+    margin: 0 auto;
+   
+}
+tr{
+    border: 1px solid; color: palevioletred; 
+    border-style: double;
+    padding: 26px;
+}
+th {
+    border: 1px solid; color: palevioletred;
+    border-style: double;
+    padding: 26px;   
+}
+td {
+    border: 1px solid; color: palevioletred; 
+    border-style: double;
+    padding: 26px;
+}
+.fondo {
+    background-color: bisque;
+    margin-left: 0%;
+    width: 40%;
+    top: 10%;
+}

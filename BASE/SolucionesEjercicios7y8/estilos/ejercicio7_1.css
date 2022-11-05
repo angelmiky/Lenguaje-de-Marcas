@@ -1,0 +1,19 @@
+#idCabecera {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#idContenido {
+    background-color: lightgreen;
+    text-align: left;
+}
+
+#idSpan1 {
+    color: darkorange;
+    font-size: large;
+}
+
+#idSpan2 {
+    font-style: italic;
+    color: crimson;
+}

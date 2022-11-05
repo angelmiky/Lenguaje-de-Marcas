@@ -1,0 +1,44 @@
+#idCabecera {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#idContenido {
+    background-color: lightgreen;
+    border: 1px solid black;
+    float: left;
+    width: 59%;
+}
+
+.estiloParrafo {
+    background-color: lightgreen;
+    border: 1px solid black;
+    float: right;
+    width: 39%;
+    margin: 0 0;
+}
+
+#parrafoConPadding {
+    padding: 1% 0;
+}
+
+#idSpan1 {
+    color: darkorange;
+    font-size: large;
+}
+
+#idSpan2 {
+    font-style: italic;
+    color: crimson;
+}
+
+#contenedorImagenes {
+    text-align: center;
+    clear: both;
+}
+
+img {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

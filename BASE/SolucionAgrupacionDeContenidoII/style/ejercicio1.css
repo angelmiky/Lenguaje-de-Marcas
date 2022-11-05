@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+.contenedorLista {
+    float: left;
+    width: 20%;
+}
+
+.contenedorResumenes {
+    float: left;
+    width: 65%;
+    background-color: antiquewhite;
+    ;
+}
+
+.contenedorRedes {
+    float: right;
+    width: 15%;
+}
+
+.piePagina {
+    clear: both;
+    background-color: darkcyan;
+}
+
+#parrafo1 {
+    float: left;
+    width: 50%;
+}
+
+#parrafo2 {
+    float: right;
+    width: 50%;
+}
+
+#parrafo3 {
+    clear: both;
+}

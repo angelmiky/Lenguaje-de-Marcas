@@ -1,0 +1,80 @@
+* {
+    margin: auto;
+}
+
+#contenedorPrincipal {
+    width: 600px;
+    margin: auto;
+    background-color: honeydew;
+    overflow: hidden;
+}
+
+h2 {
+    font-size: 80px;
+    text-align: center;
+}
+
+#divA {
+    width: 100px;
+    height: 100px;
+    border: 10px solid palegreen;
+    color: palegreen;
+    margin: auto;
+}
+
+#divBC {
+    width: 240px;
+    height: 120px;
+    margin: auto;
+}
+
+#divB {
+    width: 100px;
+    height: 100px;
+    border: 10px solid palevioletred;
+    color: palevioletred;
+    float: left;
+}
+
+#divC {
+    width: 100px;
+    height: 100px;
+    border: 10px solid palegoldenrod;
+    color: palegoldenrod;
+    float: right;
+    margin: auto;
+}
+
+#divDEF {
+    width: 360px;
+    height: 120px;
+    margin: auto;
+}
+
+#divD {
+    width: 100px;
+    height: 100px;
+    border: 10px solid lightpink;
+    color: lightpink;
+    clear: left;
+    float: left;
+    margin: auto;
+}
+
+#divE {
+    width: 100px;
+    height: 100px;
+    border: 10px solid palegreen;
+    color: palegreen;
+    float: left;
+    margin: auto;
+}
+
+#divF {
+    width: 100px;
+    height: 100px;
+    border: 10px solid paleturquoise;
+    color: paleturquoise;
+    float: left;
+    margin: auto;
+}
